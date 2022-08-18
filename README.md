@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 # Q-SW
 
+> [English Version](README_EN.md)
+
 ## Qui suis-je ?  
 
 Je suis **Cloud & DevOps Evangelist** et **Cloud Specialist** chez **Thales Services Numéques**.  
