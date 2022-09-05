@@ -2,10 +2,10 @@
 
 ## Who I am ?  
 
-I am **Cloud & DevOps Evangelist** and **Cloud Specialist** at **Thales Services Numéques**.  
+I am **Cloud & DevOps Evangelist** and **Cloud Specialist** at **Thales Services Numériques**.  
 My daily missions are to help our collaborators and our clients to understand and adopts the Cloud technologies also the DevOps practices.  
 
-My experience and my skills on Cloud technologies (AWS / GCP / Kubernetes) also on the DevOps practices (IaC / CICD ... ), allow me to easily adapt me on the client context and on these needs. My experience allow me to simplify and vulgarize this complexe ecosystem to make it accessible for many people
+My experience and my skills on Cloud technologies (AWS / GCP / Kubernetes) also on the DevOps practices (IaC / CICD ... ), allow me to easily adapt me on the client context and on these needs. My experience allows me to simplify and vulgarize this complex ecosystem to make it accessible for many peoples
 
 On my free time, I participate in the training of the futures DevOps and SRE at **CESI (Computing School) in Rouen and Caen**, with 3 differents modules:
 
@@ -13,7 +13,7 @@ On my free time, I participate in the training of the futures DevOps and SRE at 
 - Cloud Computing
 - Kubernetes
 
-And I learn by myself and I experiment some different things that I share here.
+And I learn by myself and I experiment some differents things that I try to share here.
 
 ## Professional experiences in the Cloud and DevOps domain
 
@@ -39,8 +39,8 @@ As Cloud & Devops Evangelist, I help to implemented and used the Cloud Technolog
 
 This is the technical aspect of daily work. I  develop IaC, python scripts and I animate the differents Squads in which I contribute. My activities are:
 
-- Developping Terraform and Ansible scripts to manage our landings zones cloud
-- developping IaC for client's projects
+- Developing  Terraform and Ansible scripts to manage our landings zones cloud
+- Developing  IaC for client's projects
 - Designing technical solution
 - Writing architecture documents
 - Aminating technical communities
@@ -53,11 +53,11 @@ This is the technical aspect of daily work. I  develop IaC, python scripts and I
 
 In April 2018, I join a new teams, who is dedicated for a specific project, to deploy and manage some applications of Thales Group on our private Cloud. In this mission I had in charge of:
 
-- Developping IaC and continous deployment scripts
+- Developing  IaC and continous deployment scripts
 - Maitening and operating applications systems
 - Reviewing Code
 - Following Build and Run activities
-- Implement a new process for continous improuvement
+- Implementing a new process for continous improuvement
 - Implementing and developping continuous integrations process
 
 ## Education

@@ -44,7 +44,7 @@ En tant Cloud & DevOps Evangelist j'aide à la mise en place et à l'utilisation
 - Accompagner les équipes commerciales dans les réponses à appel d'offre
   - annalyse des besoins clients
   - proposition de solution technique en adéquation avec les besoins business et technique client
-- Présentater des nos offres de valeurs
+- Présenter nos offres de valeurs
 - Gérer les relations (technique) avec nos partenaires (AWS/Google/OVH ...)
 - Mettre en place et développer des POC (Proof of Concept)
 - Mettre en place la gouvernance de nos landing zone cloud.
@@ -62,7 +62,7 @@ Ce role de tech lead Cloud/SRE, est l'aspect technique de mon quotidien, où je 
 - Animation des squads
 - Animation de communautés techniques
 - Designe et au développement de notre offre de management de Cluster Kubernetes multi-cloud
-- Dévelopenemt de scripts (Python) pour le rélever, l'analyse et l'exploitation de métriques
+- Développenemt de scripts (Python) pour le rélever, l'analyse et l'exploitation de métriques
 
 ### DevOps Enginer @ Thales Services Numériques
 
@@ -72,9 +72,9 @@ En avril 2018 je rejoins une équipe dédiée à un projet de déploiement et de
 
 - Dévelopement d'IaC et de scripts de déploiement continue
 - Maintien en condition oppérationnelle des plateformes applicatives
-- revue de code
-- suivit des activités build et run
-- mise en place d'un nouveau processus0 d'amélioration continue
+- Revue de code
+- Suivit des activités build et run
+- Mise en place d'un nouveau processus d'amélioration continue
 - Mise en place d'un processus d'intégration continue
 
 ## Parcours Scolaire  
