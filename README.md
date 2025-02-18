@@ -1,12 +1,10 @@
 # Q-SW
 
-> Apres quelques annees d'utilisation "aleatoire", j'ai decide de repartir de zero sur mon compte Github (le XX/02/2025)
-
 [English Version](./README_EN.md)
 
 ## Qui suis-je ?
 
-Je suis **Lead SRE** chez [S3NS](www.s3ns.io). S3NS est une join-venture entre **Thales** et **Google**.  
+Je suis actuellement **Lead SRE** chez [S3NS](www.s3ns.io). S3NS est une join-venture entre **Thales** et **Google**.  
 Mon equipe et moi sommes responsable de maintenir une plateforme multi-tenant basee sur **Kubernetes**.  
 
 Mes activitees principales tournent autour de l'automatisation, l'infrastructure as Code, le developpement d'outils pour me (nous) simplifier la vie. En tant que Lead, je passe beaucoup de temps a rediger, mettre a jour notre documentation.  

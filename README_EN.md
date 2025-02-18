@@ -1,5 +1,3 @@
-> After a few years of "random" use, I decided to start from scratch on my Github account (on XX/02/2025)
-
 ## Who am I?
 
 I am a **Lead SRE** at [S3NS](www.s3ns.io). S3NS is a joint venture between **Thales** and **Google**.
