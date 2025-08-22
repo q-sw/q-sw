@@ -8,6 +8,7 @@ In my spare time, I lecture at the [CESI](https://www.cesi.fr) engineering schoo
 
 ### My Technical Stack
 
+
 - Python :snake:
 - Go :rocket:
 - Terraform :link:
@@ -110,4 +111,3 @@ I was responsible for user support and managing the company's IT infrastructure.
 
 - **2015:** Master's Degree - Systems and Network Engineering - CESI Alternance Rouen
 - **2013:** BTS - Maintenance and IT Support - CESI Alternance Rouen
-
